@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GWP_MostafaProfile/static/css/main.5589b35e.css",
+    "main.js": "/GWP_MostafaProfile/static/js/main.54dc78b2.js",
+    "static/media/MOSTAFA-curcle.png": "/GWP_MostafaProfile/static/media/MOSTAFA-curcle.492b27c9bbbc488bcd61.png",
+    "static/media/Mostafa-=-.png": "/GWP_MostafaProfile/static/media/Mostafa-=-.5cab5b864fc49addfee9.png",
+    "static/media/Logo0.png": "/GWP_MostafaProfile/static/media/Logo0.ebd209f7d23c6e767c81.png",
+    "index.html": "/GWP_MostafaProfile/index.html",
+    "main.5589b35e.css.map": "/GWP_MostafaProfile/static/css/main.5589b35e.css.map",
+    "main.54dc78b2.js.map": "/GWP_MostafaProfile/static/js/main.54dc78b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5589b35e.css",
+    "static/js/main.54dc78b2.js"
+  ]
+}
